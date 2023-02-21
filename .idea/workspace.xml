@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d65b3a70-079c-41d9-8081-0d37162eca52" name="Changes" comment="">
+    <list default="true" id="d65b3a70-079c-41d9-8081-0d37162eca52" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/spring/application/JazzMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/spring/application/JazzMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/spring/application/TestBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/spring/application/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/spring/application/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/spring/application/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/spring/application/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -72,7 +71,10 @@
       <workItem from="1675712162863" duration="1654000" />
       <workItem from="1675717870055" duration="261000" />
       <workItem from="1675758867436" duration="418000" />
-      <workItem from="1675802031543" duration="2185000" />
+      <workItem from="1675802031543" duration="2987000" />
+      <workItem from="1675896027152" duration="2617000" />
+      <workItem from="1676136006572" duration="3699000" />
+      <workItem from="1676841719432" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1675759221356</created>
